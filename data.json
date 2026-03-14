@@ -77,6 +77,19 @@
           "url": "https://tgihorror.appsforhire.app"
         }
       ]
+    },
+    {
+      "client_name": "The Ghost Kitchen",
+      "client_slug": "the-ghost-kitchen",
+      "email": "*Aoqjxj3evW9fAyj42sgM",
+      "subdomain": "the-ghost-kitchen.appsforhire.app",
+      "repo": "",
+      "tier": "starter",
+      "theme_color": "#4f46e5",
+      "created": "2026-03-14",
+      "stripe_hosting": null,
+      "status": "active",
+      "apps": []
     }
   ],
   "mrr": 45,
