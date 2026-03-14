@@ -23,29 +23,9 @@
       "created": "2026-03-13",
       "stripe_hosting": null,
       "status": "active"
-    },
-    {
-      "client_name": "The Ghost Interpreter",
-      "client_slug": "theghostinterpreter",
-      "email": "",
-      "subdomain": "theghostinterpreter.appsforhire.app",
-      "repo": "https://github.com/cosmicwombat/client-theghostinterpreter",
-      "tier": "starter",
-      "theme_color": "#7c3aed",
-      "created": "2026-03-14",
-      "stripe_hosting": null,
-      "status": "active",
-      "apps": [
-        {
-          "title": "Random Sentence Generator",
-          "slug": "theghostinterpreter",
-          "published": "2026-03-14",
-          "status": "live"
-        }
-      ]
     }
   ],
   "mrr": 30,
   "capacity": 100,
-  "generated": "2026-03-14"
+  "generated": "2026-03-13"
 }
