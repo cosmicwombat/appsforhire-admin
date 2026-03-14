@@ -3,7 +3,6 @@
     {
       "client_name": "Smith Bakery",
       "client_slug": "smithbakery",
-      "email": "owner@smithbakery.com",
       "subdomain": "smithbakery.appsforhire.app",
       "repo": "https://github.com/cosmicwombat/client-smithbakery",
       "tier": "starter",
@@ -11,14 +10,7 @@
       "created": "2026-03-12",
       "stripe_hosting": null,
       "status": "active",
-      "apps": [
-        {
-          "slug": "smithbakery",
-          "title": "Smith Bakery App",
-          "status": "live",
-          "url": "https://smithbakery.appsforhire.app"
-        }
-      ]
+      "email": "owner@smithbakery.com"
     },
     {
       "client_name": "The Gathering Place",
@@ -27,50 +19,10 @@
       "subdomain": "thegatheringplace.appsforhire.app",
       "repo": "https://github.com/cosmicwombat/client-thegatheringplace",
       "tier": "starter",
-      "theme_color": "#d97706",
+      "theme_color": "#0f172a",
       "created": "2026-03-13",
       "stripe_hosting": null,
-      "status": "active",
-      "apps": [
-        {
-          "slug": "thegatheringplace",
-          "title": "Daily Offerations",
-          "status": "live",
-          "url": "https://thegatheringplace.appsforhire.app"
-        },
-        {
-          "slug": "tgpscripture",
-          "title": "Daily Word",
-          "status": "live",
-          "url": "https://tgpscripture.appsforhire.app"
-        }
-      ]
-    },
-    {
-      "client_name": "The Ghost Interpreter",
-      "client_slug": "theghostinterpreter",
-      "email": "rkeller@legoebayuc.com",
-      "subdomain": "theghostinterpreter.appsforhire.app",
-      "repo": "https://github.com/cosmicwombat/client-theghostinterpreter",
-      "tier": "starter",
-      "theme_color": "#7c3aed",
-      "created": "2026-03-14",
-      "stripe_hosting": null,
-      "status": "active",
-      "apps": [
-        {
-          "slug": "theghostinterpreter",
-          "title": "Random Sentence Generator",
-          "status": "live",
-          "url": "https://theghostinterpreter.appsforhire.app"
-        },
-        {
-          "slug": "tgihorror",
-          "title": "Ghost Story Generator",
-          "status": "live",
-          "url": "https://tgihorror.appsforhire.app"
-        }
-      ]
+      "status": "active"
     }
   ],
   "mrr": 30,
