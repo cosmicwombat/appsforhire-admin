@@ -67,28 +67,8 @@
         {
           "slug": "tgihorror",
           "title": "Ghost Story Generator",
-          "status": "in_progress",
+          "status": "live",
           "url": "https://tgihorror.appsforhire.app"
-        }
-      ]
-    },
-    {
-      "client_name": "The Ghost Interpreter",
-      "client_slug": "tgihorror",
-      "email": "",
-      "subdomain": "tgihorror.appsforhire.app",
-      "repo": "https://github.com/cosmicwombat/client-tgihorror",
-      "tier": "starter",
-      "theme_color": "#7c3aed",
-      "created": "2026-03-14",
-      "stripe_hosting": null,
-      "status": "active",
-      "apps": [
-        {
-          "title": "Ghost Story Generator",
-          "slug": "tgihorror",
-          "published": "2026-03-14",
-          "status": "live"
         }
       ]
     }
